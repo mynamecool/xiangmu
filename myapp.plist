@@ -13,7 +13,7 @@
      <string>software-package</string>
      <key>url</key>
      <!-- http或者https链接的ipa文件地址 -->
-     <string>${ipaDownloadUrl}</string>
+     <string>123456</string>
     </dict>
     <dict>
      <key>kind</key>
